@@ -1,4 +1,4 @@
-# ドコソレ流 Next.js AppRouter Settings
+# ドコソレ流 Next.js AppRouter Setting
 
 - AppRouterを用いたNext.jsの設計を作成中
 - これから実施予定
